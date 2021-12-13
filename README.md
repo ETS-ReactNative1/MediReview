@@ -10,9 +10,10 @@ Dec, 15th 2021 submission Repo for Shan Chen 217 NLP system Demo
 
 Data comes from 2018 UCI open source.
 
-## Deployment instruction:
+## Turn on the API:
 
 Go to 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bwH8mmDM49z7mHhlCnBNUjIYjOW5thIb?usp=sharing)
 
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
@@ -20,23 +21,23 @@ Go to
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and React Native to be installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/kara4141/MediReview
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd MediReview
 
 # Install dependencies
 $ npm install
 
 # Run the app
-$ npm start
+$ expo start
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+Note: Due to some restriction on FastAPI, you will also need to enable CORS on your browser!!!
 
 
 ## View models
