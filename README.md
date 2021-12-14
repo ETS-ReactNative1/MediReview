@@ -59,11 +59,12 @@ If you liked using this app or it has helped you in any way, I'd like you send m
 
 This software uses the following open source packages and get help from follwing tutorial:
 
-- [Huggingface](https://huggingface.co/models/)
+- [Huggingface&Tutorial](https://huggingface.co/models/)
+- [scikit-learn](https://sklearn.org/)
 - [React Native](https://reactnative.dev/)
 - [UCI dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 - [Keras Tutorial](https://keras.io/getting_started/)
-- Readme Templete [here](https://github.com/amitmerchant1990/electron-markdownify#readme)
+- Readme Templete [@amitmerchant1990](https://github.com/amitmerchant1990/electron-markdownify#readme)
 - JacobLi helping with React Native
 
 ---
