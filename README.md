@@ -16,7 +16,7 @@ Please head to and start the API:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bwH8mmDM49z7mHhlCnBNUjIYjOW5thIb?usp=sharing)
 
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/kara4141/MediReview/edit/main/Animation.gif)
 
 Simply copy the host website and paste it on line XX on file Shanchen once you clone the direcotry.
 
