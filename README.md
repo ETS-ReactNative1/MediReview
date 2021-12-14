@@ -18,7 +18,7 @@ Please head to and start the API:
 
 ![me](https://github.com/kara4141/MediReview/blob/main/Animation.gif)
 
-Simply copy the host website and paste it on line 14 on file Shanchen once you clone the direcotry.
+Simply copy and replace the host website and paste it on line 14 on file 'components/Chenshan.js' once you clone the direcotry.
 
 ## How To Use
 
