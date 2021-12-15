@@ -43,6 +43,10 @@ Note: Due to some restriction on FastAPI, you will also need to enable CORS on y
 
 ## View models
 
+Drug Entity Data Generation:
+
+https://colab.research.google.com/drive/1aHw1pYkNXzaNDFaI8IEFGc_ZVB1aKQYv?usp=sharing
+
 Token classification models colab notebook:
 
 https://colab.research.google.com/drive/14oCBxZ1OKg1JqyJAsqFbK4MO-fc8B9xn?usp=sharing
