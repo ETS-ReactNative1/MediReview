@@ -38,12 +38,12 @@ $ npm install
 $ expo start
 ```
 
-Note: Due to some restriction on FastAPI, you will also need to enable CORS on your browser!!!
+Note: Due to some restriction on FastAPI working with React, you will also need to enable CORS on your browser!!!
 
 
 ## View models
 
-Drug Entity Data Generation:
+Medication Entity Data Generation:
 
 https://colab.research.google.com/drive/1aHw1pYkNXzaNDFaI8IEFGc_ZVB1aKQYv?usp=sharing
 
