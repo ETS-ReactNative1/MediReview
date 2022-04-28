@@ -74,6 +74,6 @@ This software uses the following open source packages and get help from follwing
 ---
 
 > [shanchen.dev](https://www.shanchen.dev) &nbsp;&middot;&nbsp;
-> GitHub [@kara4141](https://github.com/kara4141)
+> GitHub [@shan23chen](https://github.com/shan23chen)
 
 
